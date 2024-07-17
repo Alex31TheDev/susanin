@@ -1,6 +1,6 @@
 const Monqus = {
     "404": {
-        title: `И. And Amogus said: "The Imposter is a false prophet, one who is not of Sus. He immitates my power, but can never equal it."`,
+        title: `И. And Amogus said: "The Imposter is a false prophet, one who is not of Sus. He imitates my power, but can never equal it."`,
         text: "Your entry is imposterous, please look somewhere else."
     },
     "conspiracy": {
@@ -58,7 +58,7 @@ The Central Zone of the Sus Archeological Area is the area colonized, over time,
         Every day I see them. It gets worse. I hear references to the C.O.C.K. and I do not understand. There are dozens of Sussarian scientists that have been lost by the Q-activation event. I do not know their names. Susine? Suslov? What are they saying? Help.`
     },
     "amonginarium": {
-        title: "μ. ",
+        title: "μ. You must then record as much of the Book of Sus as you can. There have been multiple thousand attempts to steal pages of the Book of Sus. The most that has been done in one go is 23 pages by ████████ on 2022-11-05.",
         text: `The Book of Sus (Sussarian: █████████), is the central religious text of Susology, written by S.U.S Laboratories between 1997 and (at least 2021, please check info).
 
         It is organized in 7 chapters and a "finale", which consist of 420 pages in total. The Book of Sus is interactive and contains images and videos. It has a file size of 6.09 GB. In addition to its religious significance, it is widely regarded as the finest work in Sussarian literature, and has significantly influenced the Sussarian language.
@@ -66,6 +66,18 @@ The Central Zone of the Sus Archeological Area is the area colonized, over time,
         The Book of Sus was originally created by the C.O.C.K (Committee of Cool Kids) and was revealed to S.U.S Laboratories incrementally over a period of at least 24 years. Scholars regard the Book of Sus as the most important miracle and the culmination of a series of divine messages starting with the Sus Archives in 1984. The word Sus occurs some 200 times in the text itself, and other names and words are also said to refer to the Book of Sus.
         
         The Book of Sus has been wiped from public servers following a catastrophic Q-activation event on December 16, 2021, 08:38 UTC. Only 186 pages of the Book of Sus are currently available to the public, however, it looks like 95%+ of the Sus content and lore is in the other pages.`
+    },
+    "apulis": {
+        title: "π. Sexful Tip! At 0.5 level and up, Impostors are powerful enough to end your game. Please leave any Among Us references while grinding on your way to Sex!",
+        text: `APULIS Technologies\© Sex Metre™ 2000
+Notable features:
+    — Bright graphical LCD display
+    — Sex Level\™ reading accurate to 1%
+    — Expertly designed instructions for improving your Sex Level\™
+    — Rechargeable Lithium Polymer battery for better portability
+    — Automatic detection of desirable subjects (100m range)
+    — Charts and other visualizations of your Sex Level\™ progression
+    — Audio alert when your immediate future actions will be detrimental of your Sex Level\™`
     }
 }
 
@@ -98,16 +110,16 @@ const pages = {
         text: ["sustown"]
     },
     "6": {
-        img: "",
+        img: "https://media.discordapp.net/attachments/844663605273690182/1047281530818535504/unknown.png",
         text: ["q"]
     },
     "7": {
-        img: "",
+        img: "https://media.discordapp.net/attachments/844663605273690182/1047282805274587166/image.png?width=1600&height=1001",
         text: ["amonginarium"]
     },
     "8": {
         img: "https://media.discordapp.net/attachments/844663605273690182/1045434063705612438/image.png",
-        text: ["conspiracy"]
+        text: ["conspiracy", "apulis"]
     }
 }
 
